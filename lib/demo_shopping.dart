@@ -88,7 +88,7 @@ void main() {
   runApp(MaterialApp(
     title: 'Shopping App',
     home: ShoppingList(
-      products:<Product>[
+      products: <Product>[
         Product(name:'Eggs'),
         Product(name:'Flour'),
         Product(name:'Chocolate chips'),
