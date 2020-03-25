@@ -9,7 +9,7 @@
             "name": "Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "lib/layout/sizing.dart"
+            "program": "lib/layout/pavlova.dart"
         }
     ]
 }
