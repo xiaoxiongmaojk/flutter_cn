@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     );
   }
 
-  Widget buildHomePage(String tilte) {
+  Widget buildHomePage(String title) {
     final titleText = Container(
       padding: EdgeInsets.all(20),
       child: Text('Strawbery Pavlova',
@@ -132,7 +132,7 @@ class MyApp extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(tilte),
+        title: Text(title),
       ),
       body: Center(
         child: Container(
