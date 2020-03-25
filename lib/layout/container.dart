@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
         borderRadius: const BorderRadius.all(const Radius.circular(8)),
       ),
       margin: const EdgeInsets.all(4),
-      child: Image.asset('image/container/pic$imageIndex.jpg'),
+      child: Image.asset('images/container/pic$imageIndex.jpg'),
     ),
   );
 }
