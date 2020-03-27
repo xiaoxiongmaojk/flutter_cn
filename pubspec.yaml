@@ -51,6 +51,35 @@ flutter:
     - images/container/pic2.jpg
     - images/container/pic3.jpg
     - images/container/pic4.jpg
+    - images/grid_and_list/pic1.jpg
+    - images/grid_and_list/pic2.jpg
+    - images/grid_and_list/pic3.jpg
+    - images/grid_and_list/pic4.jpg
+    - images/grid_and_list/pic5.jpg
+    - images/grid_and_list/pic6.jpg
+    - images/grid_and_list/pic7.jpg
+    - images/grid_and_list/pic8.jpg
+    - images/grid_and_list/pic9.jpg
+    - images/grid_and_list/pic10.jpg
+    - images/grid_and_list/pic11.jpg
+    - images/grid_and_list/pic12.jpg
+    - images/grid_and_list/pic13.jpg
+    - images/grid_and_list/pic14.jpg
+    - images/grid_and_list/pic15.jpg
+    - images/grid_and_list/pic16.jpg
+    - images/grid_and_list/pic17.jpg
+    - images/grid_and_list/pic18.jpg
+    - images/grid_and_list/pic19.jpg
+    - images/grid_and_list/pic20.jpg
+    - images/grid_and_list/pic21.jpg
+    - images/grid_and_list/pic22.jpg
+    - images/grid_and_list/pic23.jpg
+    - images/grid_and_list/pic24.jpg
+    - images/grid_and_list/pic25.jpg
+    - images/grid_and_list/pic26.jpg
+    - images/grid_and_list/pic27.jpg
+    - images/grid_and_list/pic28.jpg
+    - images/grid_and_list/pic29.jpg
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
